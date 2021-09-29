@@ -1,0 +1,9 @@
+C:\Users\diond\source\repos\Conways_Game\obj\Debug\Conways_Game.csprojAssemblyReference.cache
+C:\Users\diond\source\repos\Conways_Game\obj\Debug\Conways_Game.Form1.resources
+C:\Users\diond\source\repos\Conways_Game\obj\Debug\Conways_Game.Properties.Resources.resources
+C:\Users\diond\source\repos\Conways_Game\obj\Debug\Conways_Game.csproj.GenerateResource.cache
+C:\Users\diond\source\repos\Conways_Game\bin\Debug\Conways_Game.exe.config
+C:\Users\diond\source\repos\Conways_Game\bin\Debug\Conways_Game.exe
+C:\Users\diond\source\repos\Conways_Game\bin\Debug\Conways_Game.pdb
+C:\Users\diond\source\repos\Conways_Game\obj\Debug\Conways_Game.exe
+C:\Users\diond\source\repos\Conways_Game\obj\Debug\Conways_Game.pdb
